@@ -26,10 +26,9 @@ This is a Python Notebook for the Kaggle competition, Titanic Machine Learning F
 
 Competition: [homepage](http://www.kaggle.com/c/titanic-gettingStarted)
 
-#### Classification Techniques
-*    Supervised Learning:
-    +  XGBoost
-    +  Random Forest
-    +  Decision Trees
-    +  Linear Support Vector Classifier 
+#### Classification Techniques:
+   * XGBoost
+   * Random Forest
+   * Decision Trees
+   * Linear Support Vector Classifier 
 
